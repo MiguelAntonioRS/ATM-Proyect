@@ -33,7 +33,7 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 1. Clona el repositorio en tu máquina local:
 
    ```
-   git clone https://github.com/tuusuario/aplicacion-atm.git
+   git clone https://github.com/MiguelAntonioRS/ATM-Proyect
    ```
 
 2. Navega al directorio del proyecto:
