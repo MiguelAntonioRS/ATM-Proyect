@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de una sencilla aplicación de Cajero Automático (ATM) escrita en Java. La aplicación permite a los usuarios realizar operaciones bancarias básicas como depositar dinero,
 retirar dinero y consultar su saldo.
- 
+
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
