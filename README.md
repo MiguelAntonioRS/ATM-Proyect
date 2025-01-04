@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente de una sencilla aplicación de Cajer
 retirar dinero y consultar su saldo. 
 
 ## Tabla de Contenidos
-
+ 
 - [Descripción](#descripción)
 - [Funcionalidades](#funcionalidades)
 - [Instalación](#instalación)
