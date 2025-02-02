@@ -12,7 +12,7 @@ retirar dinero y consultar su saldo.
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
-## Descripción
+## Descripción 
 
 La aplicación de ATM consta de dos componentes principales: 
 
