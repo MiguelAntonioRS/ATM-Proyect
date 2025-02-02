@@ -7,7 +7,7 @@ retirar dinero y consultar su saldo.
 
 - [Descripción](#descripción) 
 - [Funcionalidades](#funcionalidades) 
-- [Instalación](#instalación)
+- [Instalación](#instalación) 
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
