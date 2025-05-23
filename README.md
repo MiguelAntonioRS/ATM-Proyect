@@ -6,7 +6,7 @@ retirar dinero y consultar su saldo.
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
-- [Funcionalidades](#funcionalidades) 
+- [Funcionalidades](#funcionalidades)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
