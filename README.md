@@ -13,7 +13,7 @@ retirar dinero y consultar su saldo.
 - [Licencia](#licencia)
 
 ## Descripción
-
+ 
 La aplicación de ATM consta de dos componentes principales:
 
 1. **Interfaz Gráfica de Usuario (GUI)**: Implementada utilizando el framework Swing de Java, proporcionando una interfaz interactiva para que los usuarios interactúen con el ATM.
