@@ -37,4 +37,5 @@ public class Logic {
     public double obtainMoney(){
         return moneyActual;
     }
+    
 }
